@@ -138,7 +138,7 @@
         {
           "@type": "#Microsoft.VideoAnalyzer.VideoSink",
           "name": "videoSink",
-          "videoName": "personzonecrossing",
+          "videoName": "trespassing",
           "inputs": [
             {
               "nodeName": "signalGateProcessor"
